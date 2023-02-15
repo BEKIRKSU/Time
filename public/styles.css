@@ -2,15 +2,18 @@ body {
     font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
     color: #fff;
     padding: 50px;
-    background-color: #374954;
-    text-align: center;
+    /* background-color: #00bbf0; */
+    background-image: url("https://images7.alphacoders.com/961/961343.jpg");
+    background-size: 2000px 1000px;
+    text-align: left;
+    margin-top: ;
   }
   
   h1 {
-    font-size: 100px;
+    font-size: 150px;
   }
   
-  button {
+  /* button {
     background-color: #6bbe92;
     border: 0;
     border-radius: 10px;
@@ -21,4 +24,4 @@ body {
     font-weight: bold;
     font-size: 50px;
   }
-  
+   */
